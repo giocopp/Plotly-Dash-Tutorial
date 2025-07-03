@@ -18,7 +18,7 @@ We will dive into the fascinating world of interactive data visualization with t
 <br>
 
 ## 🌐 Introduction
-In a data-intensive world, understanding and communicating complex data effectively is crucial. This workshop introduces the importance of interactive graphics in data science and the capabilities of `Plotly` and `Dash`, two great tools for creating vibrant visual narratives.
+In a data-intensive world, understanding and communicating complex data effectively is crucial. This workshop introduces the importance of interactive graphics in data science and the capabilities of `Plotly` and `Dash`, two great tools for creating complex yet intuitive narratives from data.
 
 <br>
 
